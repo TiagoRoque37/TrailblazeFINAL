@@ -9,7 +9,9 @@ slides pdf: https://drive.google.com/file/d/1CwFu-e4DKgX7-JrtG7A80ExAWAQZk4Iu/vi
 
 url: https://trailblaze-460312.oa.r.appspot.com/
 
-OUTROS REPOSITÓRIOS:
+poster: https://drive.google.com/file/d/1LYasqWloOuuXQ6F2BNbfZvz2KvNsUIPD/view?usp=sharing
+
+## OUTROS REPOSITÓRIOS:
 https://github.com/mariacfapenalva/Trailblaze - Backend e Frontend Web
 
 https://github.com/lourencocs/Trailblaze_app - Frontend Mobile
